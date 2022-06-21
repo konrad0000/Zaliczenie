@@ -13,6 +13,6 @@ import java.util.Arrays;
 		else if(array_nums[i] < min)
 			min = array_nums[i];
 	}
-	System.out.println("Różnica między największą a najmniejszą wartością: "+(max_val-min));	
+	System.out.println("Różnica między największą a najmniejszą wartością : "+(max_val-min));	
  }
 }
